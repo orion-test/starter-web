@@ -15,3 +15,5 @@ This is how you deploy the website
 
 ## How To Contribute
 Here is how
+
+Copyrigh 2016
