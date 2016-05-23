@@ -14,6 +14,8 @@ This is an example introduction
 This is how you deploy the website
 
 ## How To Contribute
+Please fork this repository and then issue Pull Request
 Here is how
 
+### Copyright
 Copyrigh 2016
