@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 A simple website
 Rebase example
+More changes from myfeature branch
 
 ## Purpose
 
