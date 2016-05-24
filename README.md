@@ -21,4 +21,4 @@ Please fork this repository and then issue Pull Request
 Here is how
 
 ### Copyright
-Copyrigh 2016
+Copyrigh 2016 All rights reserved.
