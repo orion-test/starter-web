@@ -19,6 +19,7 @@ This is how you deploy the website
 ## How To Contribute
 Please fork this repository and then issue Pull Request
 Here is how
+More details
 
 ### Copyright
 Copyrigh 2016 All rights reserved.
