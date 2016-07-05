@@ -16,3 +16,4 @@
     jQuery, Modernizr
 	Git, P4Merge
 	Perforce
+	Python
